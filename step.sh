@@ -22,6 +22,8 @@ echo " * xamarin_solution: ${xamarin_solution}"
 
 #
 # Xamarin Components restore
+xamarin_components="$COMPONENT_PATH/xamarin-component.exe"
+
 echo
-echo mono "${COMPONENT_PATH}" restore "${xamarin_solution}"
-mono "${COMPONENT_PATH}" restore "${xamarin_solution}"
+echo mono "${xamarin_components}" restore "${xamarin_solution}"
+mono "${xamarin_components}" restore "${xamarin_solution}"
