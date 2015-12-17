@@ -3,7 +3,7 @@ summary: Step Xamarin Components Restore
 description: |-
   Step Xamarin Components Restore
 website: https://github.com/bitrise-steplib/steps-xamarin-components-restore
-source_code_url: https://github.com/bitrise-steplib/steps-xamarin-components-restore
+source_code_url: https://github.com/bitrise-steplib/steps-xamarin-components-restore.git
 support_url: https://github.com/bitrise-steplib/steps-xamarin-components-restore/issues
 host_os_tags:
   - osx-10.10
