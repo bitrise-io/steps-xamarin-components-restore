@@ -1,10 +1,10 @@
-title: "Step Xamarin Componetnts Restore"
-summary: Step Xamarin Componetnts Restore
+title: "Step Xamarin Components Restore"
+summary: Step Xamarin Components Restore
 description: |-
-  Step Xamarin Componetnts Restore
-website: https://github.com/bitrise-io/steps-xamarin-components-restore
-source_code_url: https://github.com/bitrise-io/steps-xamarin-components-restore
-support_url: https://github.com/bitrise-io/steps-xamarin-components-restore/issues
+  Step Xamarin Components Restore
+website: https://github.com/bitrise-steplib/steps-xamarin-components-restore
+source_code_url: https://github.com/bitrise-steplib/steps-xamarin-components-restore
+support_url: https://github.com/bitrise-steplib/steps-xamarin-components-restore/issues
 host_os_tags:
   - osx-10.10
 project_type_tags:
@@ -16,7 +16,7 @@ is_skippable: false
 dependencies: []
 run_if: ""
 inputs:
-  - xamarin_solution:
+  - xamarin_solution: $BITRISE_PROJECT_PATH
     opts:
       title: Path to Xamarin solution
       description: |

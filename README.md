@@ -1,4 +1,4 @@
-# Xamarin Componetnts Restore Step
+# Xamarin Components Restore Step
 
 ## How to use this Step
 
