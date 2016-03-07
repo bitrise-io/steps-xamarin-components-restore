@@ -1,7 +1,6 @@
-title: "Step Xamarin Components Restore"
-summary: Step Xamarin Components Restore
-description: |-
-  Step Xamarin Components Restore
+title: Xamarin Components restore
+summary: Xamarin Components restore step
+description: Xamarin Components restore step
 website: https://github.com/bitrise-steplib/steps-xamarin-components-restore
 source_code_url: https://github.com/bitrise-steplib/steps-xamarin-components-restore.git
 support_url: https://github.com/bitrise-steplib/steps-xamarin-components-restore/issues
